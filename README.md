@@ -4,9 +4,9 @@
 
 ![Experience](https://img.shields.io/badge/Experience-17%2B_years-b06716?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-Backend_·_Web_·_App-555?style=flat-square) ![AI Pair](https://img.shields.io/badge/AI_Pair-Cursor_·_Claude_Code-b06716?style=flat-square)
 
-17년간 **PHP 생태계**에서 공공·기업·언론·커머스까지 수많은 대고객 서비스를 구축·운영해 온 시니어 개발자입니다. 탄탄한 기본기와 디버깅 내공 위에 최신 AI 에이전트를 결합해, 리스크는 줄이고 생산성은 끌어올립니다. AI가 채우지 못하는 마지막 2%, **‘라스트 마일’의 디테일**에 강점이 있습니다.
+**PHP 생태계**에서 공공·기업·언론·커머스까지 수많은 대고객 서비스를 구축·운영해 온 시니어 개발자입니다. 탄탄한 기본기와 디버깅 내공 위에 최신 AI 에이전트를 결합해, 리스크는 줄이고 생산성은 끌어올립니다. AI가 채우지 못하는 마지막 2%, **‘라스트 마일’의 디테일**에 강점이 있습니다.
 
-**현재** · 디토나인 — Node.js·PHP·Python·Spring Boot 기반 앱/웹 서비스 개발
+**현재** · Node.js·PHP·Python·Spring Boot 기반 앱/웹 서비스 개발
 
 **관심** · 레거시 안정 운영과 AI 협업 개발 워크플로우
 
