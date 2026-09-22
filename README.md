@@ -39,5 +39,3 @@
 **공공·기업 웹서비스 & 웹접근성** — 이지팜(농식품·지자체·기관), 미래정보통신(용인시청·구청·도서관 등)
 
 **뉴스·커뮤니티·특화 서비스 운영** — DBK네트웍스(소비자가만드는신문·충북일보 등)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kjhdn82&show_icons=true&hide_border=true&title_color=b06716&icon_color=b06716)
